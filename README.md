@@ -2,3 +2,5 @@
 - Peach
 - Strawberry
 - Blackberry
+- Apple
+- Grape
